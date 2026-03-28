@@ -1,4 +1,4 @@
-###SmartCart AI
+# SmartCart AI
 
 ## Project Overview
 
