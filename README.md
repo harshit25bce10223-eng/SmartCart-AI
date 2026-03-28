@@ -17,7 +17,7 @@ Basic recommendation system
 This project uses a simple rule-based recommendation system.
 Example:
 Milk → Butter
-Fruits → Water
+Racket → Water
 
 ## Technologies Used
 1. C++
