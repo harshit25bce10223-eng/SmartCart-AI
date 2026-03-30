@@ -27,7 +27,7 @@ Racket → Water
 1. Compile the code:
     g++ main.cpp -o cart
 2. Run the program:
-./cart
+   ./a.exe
 
 ## Files
 main.cpp
